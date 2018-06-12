@@ -282,30 +282,6 @@ vich_uploader:
             namer:              vich_uploader.namer_origname
             delete_on_update: true
             delete_on_remove: true
-        # program_logo_image:
-        #     uri_prefix:         '%image_prefix%/program/logo_progam'
-        #     upload_destination: '%kernel.root_dir%/../web/uploads/img/program/logo_progam'
-        #     namer:              vich_uploader.namer_origname
-        #     delete_on_update: true
-        #     delete_on_remove: true
-        # program_photo_image:
-        #     uri_prefix:         '%image_prefix%/program/photo_progam'
-        #     upload_destination: '%kernel.root_dir%/../web/uploads/img/program/photo_progam'
-        #     namer:              vich_uploader.namer_origname
-        #     delete_on_update: true
-        #     delete_on_remove: true
-        # partners_image:
-        #     uri_prefix:         '%image_prefix%/program/logo_partner'
-        #     upload_destination: '%kernel.root_dir%/../web/uploads/img/program/logo_partner'
-        #     namer:              vich_uploader.namer_origname
-        #     delete_on_update: true
-        #     delete_on_remove: true
-        # program_results_pdf:
-        #     uri_prefix:         '%image_prefix%/program/results_pdf'
-        #     upload_destination: '%kernel.root_dir%/../web/uploads/img/program/results_pdf'
-        #     namer:              vich_uploader.namer_origname
-        #     delete_on_update: true
-        #     delete_on_remove: true
         carousel_image:
             uri_prefix:         '%image_prefix%/carousel/'
             upload_destination: '%kernel.root_dir%/../web/uploads/img/carousel'
